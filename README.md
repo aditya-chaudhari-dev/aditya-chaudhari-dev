@@ -206,8 +206,6 @@ aditya:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aditya-chaudhari-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=58A6FF&text_color=C9D1D9&ring_color=00C9A7"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chaudhari-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chaudhari-dev&hide_border=true&background=0D1117&stroke=132743&ring=00C9A7&fire=58A6FF&currStreakLabel=00C9A7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
 
