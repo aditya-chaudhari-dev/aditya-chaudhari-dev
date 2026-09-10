@@ -23,13 +23,13 @@
 
 ## 🧑‍💻 Professional Summary
 
-> Software Development Engineer with a **backend-first mindset**, building production-grade enterprise software at **[Akarvi Labs](https://akarvi.com)** — a Pune-based engineering company delivering custom ERP, CRM, AI automation, and cloud systems from the ground up, with no templates. I design scalable APIs and services in **Java / Spring Boot**, and ship complete, polished products end-to-end using the **MERN** stack and **Next.js**.
+> Junior Software Developer with a **backend-first mindset**, building production-grade enterprise software at **[Akarvi Labs](https://akarvi.com)** — a Pune-based engineering company delivering custom ERP, CRM, AI automation, and cloud systems from the ground up, with no templates. I design scalable APIs and services in **Java / Spring Boot**, and ship complete, polished products end-to-end using the **MERN** stack and **Next.js**.
 
 <div align="center">
 
 | 💼 Role | 🏢 Company | 📍 Location | ⚡ Focus | ☁️ Cloud |
 |:---:|:---:|:---:|:---:|:---:|
-| Software Development Engineer | [Akarvi Labs Pvt. Ltd.](https://akarvi.com) | Pune, India | ERP • CRM • AI Automation • MIS Dashboards | AWS |
+| Junior Software Developer | [Akarvi Labs Pvt. Ltd.](https://akarvi.com) | Pune, India | ERP • CRM • AI Automation • MIS Dashboards | AWS |
 
 </div>
 
