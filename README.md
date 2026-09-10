@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:132743,60:0F5C5C,100:00C9A7&height=230&section=header&text=Aditya%20Bapusaheb%20Chaudhari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20Engineer%20%40%20Akarvi%20Labs&descAlignY=58&descSize=18&descColor=E6FFFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:132743,60:0F5C5C,100:00C9A7&height=230&section=header&text=Aditya%20Bapusaheb%20Chaudhari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Sotware%20Developer%20%40%20Akarvi%20Labs&descAlignY=58&descSize=18&descColor=E6FFFA" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00C9A7&background=0D111700&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+React+%2F+Next.js+%7C+AWS;Backend-First+Full+Stack+Engineer;ERP+%7C+CRM+%7C+AI+Automation+%7C+Cloud+Systems;Clean+Code.+Scalable+Systems.+Real+Impact.">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00C9A7&background=0D111700&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+React+%2F+Next.js+%7C+AWS;Backend-First+Full+Stack+Engineer;ERP+%7C+CRM+%7C+AI+Automation+%7C+Cloud+Systems;Clean+Code.+Scalable+Systems.+Real+Impact." alt="Typing SVG"/>
